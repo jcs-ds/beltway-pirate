@@ -1,0 +1,519 @@
+{
+  "audit_date": "2026-01-26T13:28:43.083476",
+  "summary": {
+    "total": 37,
+    "working": 30,
+    "failed": 7,
+    "tier1": {
+      "working": 15,
+      "failed": 0
+    },
+    "tier2a": {
+      "working": 6,
+      "failed": 6
+    },
+    "tier2b": {
+      "working": 9,
+      "failed": 1
+    }
+  },
+  "results": [
+    {
+      "id": "c4isrnet",
+      "name": "C4ISRNET",
+      "tier": "tier1",
+      "url": "https://www.c4isrnet.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "Elbit bets on UK as its European drone sales hub",
+        "date": "Mon, 26 Jan 2026 16:50:08 +0000"
+      }
+    },
+    {
+      "id": "c4isrnet-electronic-warfare",
+      "name": "C4ISRNET EW",
+      "tier": "tier1",
+      "url": "https://www.c4isrnet.com/arc/outboundfeeds/rss/category/electronic-warfare/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 4,
+      "error": null,
+      "latest_article": {
+        "title": "Pentagon\u2019s realistic electronic warfare system to move to Navy lab",
+        "date": "Wed, 20 Aug 2025 18:29:36 +0000"
+      }
+    },
+    {
+      "id": "c4isrnet-cyber",
+      "name": "C4ISRNET Cyber",
+      "tier": "tier1",
+      "url": "https://www.c4isrnet.com/arc/outboundfeeds/rss/category/cyber/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 19,
+      "error": null,
+      "latest_article": {
+        "title": "AI-powered military neurotech: Mind enhancement or control?",
+        "date": "Thu, 22 Jan 2026 21:46:28 +0000"
+      }
+    },
+    {
+      "id": "c4isrnet-unmanned",
+      "name": "C4ISRNET Unmanned",
+      "tier": "tier1",
+      "url": "https://www.c4isrnet.com/arc/outboundfeeds/rss/category/unmanned/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "Elbit bets on UK as its European drone sales hub",
+        "date": "Mon, 26 Jan 2026 16:50:08 +0000"
+      }
+    },
+    {
+      "id": "c4isrnet-ai",
+      "name": "C4ISRNET AI",
+      "tier": "tier1",
+      "url": "https://www.c4isrnet.com/arc/outboundfeeds/rss/category/artificial-intelligence/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 9,
+      "error": null,
+      "latest_article": {
+        "title": "New lab offers generative AI for defense wargaming",
+        "date": "Mon, 24 Nov 2025 13:40:36 +0000"
+      }
+    },
+    {
+      "id": "breaking-defense",
+      "name": "Breaking Defense",
+      "tier": "tier1",
+      "url": "https://breakingdefense.com/feed/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 15,
+      "error": null,
+      "latest_article": {
+        "title": "CEO Q&A: Abu Dhabi Ship Building eyes large USVs and early vessels deliveries",
+        "date": "Mon, 26 Jan 2026 16:56:26 +0000"
+      }
+    },
+    {
+      "id": "defense-scoop",
+      "name": "Defense Scoop",
+      "tier": "tier1",
+      "url": "https://defensescoop.com/feed/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 10,
+      "error": null,
+      "latest_article": {
+        "title": "MARSOC wants intel specialists amid high demand, limited personnel pool",
+        "date": "Fri, 23 Jan 2026 21:03:00 +0000"
+      }
+    },
+    {
+      "id": "the-war-zone",
+      "name": "The War Zone",
+      "tier": "tier1",
+      "url": "https://twz.com/feed/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 27,
+      "error": null,
+      "latest_article": {
+        "title": "Legacy F-15 Eagles Boost NASA Test Fleet",
+        "date": "Sat, 24 Jan 2026 13:04:26 -0500"
+      }
+    },
+    {
+      "id": "defense-one",
+      "name": "Defense One",
+      "tier": "tier1",
+      "url": "https://www.defenseone.com/rss/all/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "The D Brief: Feds kill again in Minnesota; National Defense Strategy drops; New ",
+        "date": "Mon, 26 Jan 2026 11:47:15 -0500"
+      }
+    },
+    {
+      "id": "defense-one-technology",
+      "name": "Defense One Tech",
+      "tier": "tier1",
+      "url": "https://defenseone.com/rss/technology",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "As combat evolves, leaders seek not \u2018super-athletes\u2019 but \u2018human weapon systems\u2019",
+        "date": "Thu, 22 Jan 2026 17:49:14 -0500"
+      }
+    },
+    {
+      "id": "defense-news",
+      "name": "Defense News",
+      "tier": "tier1",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "Elbit bets on UK as its European drone sales hub",
+        "date": "Mon, 26 Jan 2026 16:50:08 +0000"
+      }
+    },
+    {
+      "id": "defense-news-pentagon",
+      "name": "Defense News Pentagon",
+      "tier": "tier1",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/pentagon/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "Why the US Army must focus on winning the first battle of the next war",
+        "date": "Sat, 24 Jan 2026 16:34:57 +0000"
+      }
+    },
+    {
+      "id": "defense-news-congress",
+      "name": "Defense News Congress",
+      "tier": "tier1",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/congress/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "US lawmakers release $839B compromise defense spending bill",
+        "date": "Tue, 20 Jan 2026 19:28:40 +0000"
+      }
+    },
+    {
+      "id": "real-clear-defense",
+      "name": "Real Clear Defense",
+      "tier": "tier1",
+      "url": "https://www.realcleardefense.com/index.xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 126,
+      "error": null,
+      "latest_article": {
+        "title": "U.S. Air Force Announces 'Air Expeditionary Wing 2.0'",
+        "date": "Mon, 26 Jan 2026 06:01:48 -0600"
+      }
+    },
+    {
+      "id": "war-on-the-rocks",
+      "name": "War on the Rocks",
+      "tier": "tier1",
+      "url": "https://warontherocks.com/feed/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 100,
+      "error": null,
+      "latest_article": {
+        "title": "The Primes Aren\u2019t the Real Bottleneck in U.S. Weapons Production",
+        "date": "Mon, 26 Jan 2026 09:00:56 +0000"
+      }
+    },
+    {
+      "id": "csis",
+      "name": "CSIS",
+      "tier": "tier2a",
+      "url": "https://www.csis.org/analysis/feed",
+      "status": "HTTP_403",
+      "http_status": 403,
+      "article_count": 0,
+      "error": "HTTP 403",
+      "latest_article": null
+    },
+    {
+      "id": "rand",
+      "name": "RAND",
+      "tier": "tier2a",
+      "url": "https://www.rand.org/pubs/new.xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 20,
+      "error": null,
+      "latest_article": {
+        "title": "A New Age of Nations",
+        "date": "2026-01-26T09:00:00Z"
+      }
+    },
+    {
+      "id": "cnas",
+      "name": "CNAS",
+      "tier": "tier2a",
+      "url": "https://www.cnas.org/feed",
+      "status": "HTTP_404",
+      "http_status": 404,
+      "article_count": 0,
+      "error": "HTTP 404",
+      "latest_article": null
+    },
+    {
+      "id": "atlantic-council",
+      "name": "Atlantic Council",
+      "tier": "tier2a",
+      "url": "https://www.atlanticcouncil.org/feed/",
+      "status": "HTTP_403",
+      "http_status": 403,
+      "article_count": 0,
+      "error": "HTTP 403",
+      "latest_article": null
+    },
+    {
+      "id": "hudson-institute",
+      "name": "Hudson Institute",
+      "tier": "tier2a",
+      "url": "https://www.hudson.org/feed",
+      "status": "HTTP_403",
+      "http_status": 403,
+      "article_count": 0,
+      "error": "HTTP 403",
+      "latest_article": null
+    },
+    {
+      "id": "heritage-foundation",
+      "name": "Heritage Foundation",
+      "tier": "tier2a",
+      "url": "https://www.dailysignal.com/feed/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 30,
+      "error": null,
+      "latest_article": {
+        "title": "All Eyes on Trump, Congress as Americans March for Life",
+        "date": "Mon, 26 Jan 2026 18:09:20 +0000"
+      }
+    },
+    {
+      "id": "aei",
+      "name": "AEI",
+      "tier": "tier2a",
+      "url": "https://www.aei.org/feed/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 24,
+      "error": null,
+      "latest_article": {
+        "title": "Beneficiary Incentives Are Needed to Improve ACO Performance",
+        "date": "Mon, 26 Jan 2026 17:56:52 +0000"
+      }
+    },
+    {
+      "id": "brookings",
+      "name": "Brookings",
+      "tier": "tier2a",
+      "url": "https://www.brookings.edu/feed/",
+      "status": "PARSE_ERROR",
+      "http_status": 200,
+      "article_count": 0,
+      "error": "<unknown>:58:0: undefined entity",
+      "latest_article": null
+    },
+    {
+      "id": "cfr",
+      "name": "CFR",
+      "tier": "tier2a",
+      "url": "https://feeds.feedburner.com/cfr_main",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 50,
+      "error": null,
+      "latest_article": {
+        "title": "Outdated Cold War Analogies Could Lead the West Astray",
+        "date": "Wed, 16 Mar 2022 15:50:34 EDT"
+      }
+    },
+    {
+      "id": "modern-war-institute",
+      "name": "Modern War Institute",
+      "tier": "tier2a",
+      "url": "https://mwi.westpoint.edu/feed/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 5,
+      "error": null,
+      "latest_article": {
+        "title": "When Automation Accelerates War, Identity Determines Victory",
+        "date": "Mon, 26 Jan 2026 09:02:39 +0000"
+      }
+    },
+    {
+      "id": "isw",
+      "name": "ISW",
+      "tier": "tier2a",
+      "url": "https://www.iswresearch.org/feeds/posts/default?alt=rss",
+      "status": "HTTP_403",
+      "http_status": 403,
+      "article_count": 0,
+      "error": "HTTP 403",
+      "latest_article": null
+    },
+    {
+      "id": "long-war-journal",
+      "name": "Long War Journal",
+      "tier": "tier2a",
+      "url": "https://feeds.feedburner.com/LongWarJournal",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 30,
+      "error": null,
+      "latest_article": {
+        "title": "IDF details role and methods of Hezbollah\u2019s local liaison operatives",
+        "date": "Fri, 23 Jan 2026 20:23:08 +0000"
+      }
+    },
+    {
+      "id": "usni-news",
+      "name": "USNI News",
+      "tier": "tier2b",
+      "url": "https://news.usni.org/feed",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 30,
+      "error": null,
+      "latest_article": {
+        "title": "Two Killed in U.S. Strike on Suspected Narco Boat in Eastern Pacific",
+        "date": "Mon, 26 Jan 2026 16:45:06 +0000"
+      }
+    },
+    {
+      "id": "air-and-space-forces-magazine",
+      "name": "Air & Space Forces",
+      "tier": "tier2b",
+      "url": "https://www.airandspaceforces.com/feed/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 9,
+      "error": null,
+      "latest_article": {
+        "title": "Coming Soon to Air Force Basic Training: Mock Airfields Complete with F-16, C-13",
+        "date": "Thu, 22 Jan 2026 23:46:10 +0000"
+      }
+    },
+    {
+      "id": "army-times",
+      "name": "Army Times",
+      "tier": "tier2b",
+      "url": "https://www.armytimes.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "Hegseth puts more muscle into fixing troops\u2019 household goods moves",
+        "date": "Mon, 26 Jan 2026 15:28:26 +0000"
+      }
+    },
+    {
+      "id": "navy-times",
+      "name": "Navy Times",
+      "tier": "tier2b",
+      "url": "https://www.navytimes.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "US aircraft carrier arrives in Middle East amid Iran tensions",
+        "date": "Mon, 26 Jan 2026 17:52:29 +0000"
+      }
+    },
+    {
+      "id": "air-force-times",
+      "name": "Air Force Times",
+      "tier": "tier2b",
+      "url": "https://www.airforcetimes.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "Hegseth puts more muscle into fixing troops\u2019 household goods moves",
+        "date": "Mon, 26 Jan 2026 15:28:26 +0000"
+      }
+    },
+    {
+      "id": "marine-corps-times",
+      "name": "Marine Corps Times",
+      "tier": "tier2b",
+      "url": "https://www.marinecorpstimes.com/arc/outboundfeeds/rss/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "US aircraft carrier arrives in Middle East amid Iran tensions",
+        "date": "Mon, 26 Jan 2026 17:52:29 +0000"
+      }
+    },
+    {
+      "id": "spacenews",
+      "name": "SpaceNews",
+      "tier": "tier2b",
+      "url": "https://spacenews.com/feed/",
+      "status": "HTTP_429",
+      "http_status": 429,
+      "article_count": 0,
+      "error": "HTTP 429",
+      "latest_article": null
+    },
+    {
+      "id": "defense-news-naval",
+      "name": "Defense News Naval",
+      "tier": "tier2b",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/naval/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "New naval power and propulsion facility opens in South Carolina",
+        "date": "Mon, 26 Jan 2026 16:25:32 +0000"
+      }
+    },
+    {
+      "id": "defense-news-space",
+      "name": "Defense News Space",
+      "tier": "tier2b",
+      "url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/space/?outputType=xml",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 25,
+      "error": null,
+      "latest_article": {
+        "title": "Space Force looks to expand West Coast heavy launch capabilities",
+        "date": "Thu, 08 Jan 2026 20:08:42 +0000"
+      }
+    },
+    {
+      "id": "bellingcat",
+      "name": "Bellingcat",
+      "tier": "tier2b",
+      "url": "https://www.bellingcat.com/feed/",
+      "status": "OK",
+      "http_status": 200,
+      "article_count": 10,
+      "error": null,
+      "latest_article": {
+        "title": "Alex Pretti: Analysing Footage of Minneapolis CBP Shooting",
+        "date": "Sun, 25 Jan 2026 19:48:59 +0000"
+      }
+    }
+  ]
+}

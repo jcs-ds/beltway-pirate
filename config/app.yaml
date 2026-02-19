@@ -1,0 +1,61 @@
+# DoD Intelligence Platform Configuration
+vault_path: "../../../jcs-remote/Distributed"
+database_path: "./data/processed/dod.db"
+index_path: "./data/processed/search.idx"
+
+# Scoring weights for customer targeting
+scoring:
+  domain_alignment: 0.30
+  budget_authority: 0.25
+  accessibility: 0.20
+  operational_urgency: 0.15
+  competitive_density: 0.10
+
+# Domains of interest (filter defaults)
+priority_domains:
+  - ew
+  - sigint
+  - c-uas
+  - ai
+  - sensors
+  - spectrum
+  - counter-uas
+  - electronic-warfare
+
+# Services
+services:
+  - Army
+  - Navy
+  - USMC
+  - Air Force
+  - Space Force
+  - SOCOM
+  - Marines
+  - Joint
+  - OSD
+  - DARPA
+
+# Entity types
+entity_types:
+  - buyer
+  - program
+  - operational_unit
+  - platform
+  - company
+  - technology
+  - system
+
+# Company watch list
+tracked_companies:
+  - Anduril
+  - CX2
+  - DeepSig
+  - Shield AI
+  - L3Harris
+  - Northrop Grumman
+  - Raytheon
+  - BAE Systems
+  - Lockheed Martin
+  - CACI
+  - General Dynamics
+  - Leonardo DRS
